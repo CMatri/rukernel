@@ -1,0 +1,4 @@
+status = [
+  "phil-opp.rust_os",
+]
+delete_merged_branches = true
